@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>WebSocket</name>
 	<description>Spring web socket</description>
+	<packaging>jar</packaging>
 	<url/>
 	<licenses>
 		<license/>
